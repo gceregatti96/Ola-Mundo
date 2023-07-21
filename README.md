@@ -1,6 +1,6 @@
 # Hello World!
  Primeiro repositorio versionado.
 
- Repositorio Aula 01.
+ Teste de repositório.
  
- Linha alterada pelo Remoto.
+Esse é apenas um teste do meu primeiro repositório aqui no GitHub 	:smile:
